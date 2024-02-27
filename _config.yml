@@ -4,7 +4,7 @@ url: "https://benreyn.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Ben Reynolds"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+# description: false
 
 # color theme for links
 theme-color: green # indigo|yellow|pink|green|stone|
